@@ -1,0 +1,22 @@
+body { background-color:lightblue } 
+h1 { background-color: greenyellow;}
+h2 { background-color: yellow;
+     font-style: italic;
+}
+p {color: navy}
+a { background-color: aqua;
+    color: white
+}
+#reflection {
+    background-color: navy;
+    color: white 
+}
+.lesson {
+    font-style: italic;
+    color: royalblue; 
+}
+.highlight {
+    background-color: lightyellow;
+    color: black;
+    font-weight: bold;
+}
