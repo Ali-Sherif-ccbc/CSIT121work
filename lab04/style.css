@@ -1,0 +1,32 @@
+h1 {
+    background-color: navy;
+    color: aliceblue;
+    font-weight: bolder;
+    display: inline
+}
+
+h2 {
+    color: navy;
+    background-color: aliceblue;
+    display: inline;
+}
+
+article {
+    background-color: skyblue;
+    display: inline-block
+}
+
+body {
+    background-image: url("images/SonicBackground.png");
+    display: inline-block
+}
+
+footer {
+    background-color: aliceblue;
+    display: inline-block;
+}
+
+#PublishDate {
+    color: darkblue;
+    font-weight: bold;
+}
